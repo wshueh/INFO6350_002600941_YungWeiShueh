@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "828349313969",
+    "project_id": "auth-spring2025-305e6",
+    "storage_bucket": "auth-spring2025-305e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828349313969:android:569f1a46b67df603510390",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828349313969-e743srpghcqcsa8rvcsfk9tucr2keium.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtEFhD1ZvqL0RAUX4Ykrkkl5aEoqvFwyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828349313969-e743srpghcqcsa8rvcsfk9tucr2keium.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828349313969-6ogoug9goiqadvtgidbmkdj0j97t802s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
