@@ -1,16 +1,9 @@
 # exercise_9
 
-A new Flutter project.
+Successfully tested on iOS Simulator.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aa1fc761-9290-4da8-93a9-4d1d3abb84c0" width="300"/>
+  <img src="https://github.com/user-attachments/assets/bd07ef3d-6b65-4208-bedb-20cce39f1617" width="300"/>
+  <img src="https://github.com/user-attachments/assets/3d8643a1-48c0-419e-86cc-fff5323cf9a0" width="300"/>
+</div>
